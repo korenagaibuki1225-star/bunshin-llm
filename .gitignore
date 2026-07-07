@@ -1,0 +1,20 @@
+# ==== 個人データは絶対にコミットしない ====
+# 生データ(LINE履歴・AIチャットエクスポート・日記)
+**/raw/
+# 生成されたデータセット(仮名化済みであっても公開しない)
+**/output/
+# 学習用コーパスとチェックポイント
+**/data/input.txt
+*.pt
+*.gguf
+*.zip
+# 実名の対応表(name_map.example.json だけは追跡する)
+name_map.json
+partners.json
+
+# ==== 一般的な除外 ====
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
