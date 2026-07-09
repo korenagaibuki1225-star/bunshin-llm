@@ -78,3 +78,6 @@ Kaggle・Google Colab(T4) / GGUF・Ollama(ローカル推論)
 2. `python make_dataset.py` → `python anonymize.py`
 3. `name_map.example.json` を参考に自分用の `name_map.json` を作成
 4. `colab/bunshin_lora_kaggle.ipynb` をKaggleで実行
+## WORKFLOWで学んだことを書きました！
+
+私自身生成AIを勉強中の初学者なので、変な部分があるかもしれませんが良かったら見て行って下さい！
