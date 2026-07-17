@@ -65,6 +65,7 @@ bunshin_data/      データパイプライン(収集→整形→仮名化)
   colab/           学習ノートブック(Colab版 / Kaggle版)
 evaluation/        評価プロトコル(固定10問 + ブラインドテスト)
 WORKFLOW.md        全工程の詳細な記録
+HOW_IT_WORKS.md    仕組みのやさしい解説(ワンホット/PCAとの橋渡しつき)
 ```
 
 ## 技術スタック
